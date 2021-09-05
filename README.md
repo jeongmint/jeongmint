@@ -1,4 +1,6 @@
-### Hi there 👋
+### K-취준생(Job Seeker)👋
+### K-Artist 👋
+### K-Developer 👋
 
 <!--
 **jeongmint/jeongmint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
