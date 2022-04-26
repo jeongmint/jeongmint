@@ -3,11 +3,7 @@
 <br/>
 <img src="jeongmint.gif" width="50%" height="50%"/>
 <br/>
-<span style = " font-size:1.5em;  color: #4EBF96;">
-Jeong Min's Blog
-</span>
-<br/>
-(https://jeongmint.github.io)
+[Jeong Min's Blog] (https://jeongmint.github.io)
 
 <!--
 **jeongmint/jeongmint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
