@@ -1,9 +1,11 @@
 ### Come visit me.
 𝙀𝙭𝙥𝙡𝙤𝙧𝙚, 𝘿𝙧𝙚𝙖𝙢, 𝘿𝙞𝙨𝙘𝙤𝙫𝙚𝙧
 <br/>
-![EminentMint](jeongmint.gif)
+![EminentMint](jeongmint.gif){: width="50%" height="50%"}
 <br/>
+<span style = " font-size:1.5em;  color: #4EBF96;">
 [Jeong Min's Blog](https://jeongmint.github.io)
+</span>
 
 <!--
 **jeongmint/jeongmint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
