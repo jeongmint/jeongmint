@@ -1,5 +1,5 @@
 ### Come visit me.
-𝙀𝙭𝙥𝙡𝙤𝙧𝙚, 𝘿𝙧𝙚𝙖𝙢, 𝘿𝙞𝙨𝙘𝙤𝙫𝙚𝙧
+𝙀𝙭𝙥𝙡𝙤𝙧𝙚, 𝘿𝙧𝙚𝙖𝙢, 𝘿𝙞𝙨𝙘𝙤𝙫𝙚𝙧 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmint&count_bg=%2363F2BE&title_bg=%235D776E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
 <img src="jeongmint.gif" width="50%" height="50%"/>
 <br/>
