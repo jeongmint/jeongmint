@@ -9,7 +9,12 @@ I'm studying something fun and like in art.
 Thank you for visiting.
 
 <br/>
-<br/>
+
+If you want to know more about me,
+
+look at the link below!
+
+⬇️⬇️⬇️
 
 [Jeong Min's Blog](https://jeongmint.github.io)
 
