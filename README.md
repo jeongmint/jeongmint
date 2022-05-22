@@ -3,11 +3,17 @@
 
 <br/>
 Hello, My Name is Jeong Min Choi.
+
 I'm studying something fun and like in art.
+
 Thank you for visiting.
 
 <br/>
+<br/>
+
 [Jeong Min's Blog](https://jeongmint.github.io)
+
+<br/>
 
 ![Jeongmint's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmint&show_icons=true&theme=gotham)
 
